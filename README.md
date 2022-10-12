@@ -1,2 +1,2 @@
-# algorithms-katas
-Collection of  Katas about Algorithms.
+# Algorithms katas
+Collection of Katas to practice algorithms.
